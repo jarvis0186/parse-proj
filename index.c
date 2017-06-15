@@ -1,9 +1,10 @@
 #include<stdio.h>
 void main()
 {
-	int a, b, c;
+	int a, b,d, c;
 	a=10;
 	b=20;
-	c=10+20;
-	printf("The sum is %d", c);
+	c=30;
+	d=a+b+c;
+	printf("The sum is %d", d);
 }
