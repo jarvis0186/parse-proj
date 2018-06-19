@@ -1,5 +1,3 @@
-# reimagined-waddle
+# Parse-C
 
-hello there!
-this is just a beginning as how to use the github, 
-i like playing around with codes and trying out stuff.
+A parser written in 'C' to syntactically analyse the correctness of a C program.
